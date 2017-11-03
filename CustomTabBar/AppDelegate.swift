@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  CustomTabBar
 //
-//  Created by Manish Anand on 07/03/17.
-//  Copyright © 2017 Erginus. All rights reserved.
+//  Created by  iOSDeveloper on 07/03/17.
+//  Copyright © 2017 iOSDeveloper. All rights reserved.
 //
 
 import UIKit
